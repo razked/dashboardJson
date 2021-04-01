@@ -1,0 +1,15 @@
+.SearchBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 12vh;
+    position: relative;
+    
+    &__upload {
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        width: 100%;
+    }
+}
